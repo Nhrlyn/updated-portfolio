@@ -310,6 +310,16 @@ https://www.tooplate.com/view/2120-ben-resume
     padding: 0.5rem 2rem 1.5rem 2rem;
 	font-size: 1.2em;
   }
+  .hero-title2 {
+    background: var(--dark-color);
+    border-radius: var(--border-radius-medium);
+    color: var(--white-color);
+    display: inline-block;
+    margin: 4rem 0 2rem 0rem;
+    padding: 0.5rem 1rem 1rem 1rem;
+	font-size: 1.3em;
+  }
+
   .hero-title,
   .email-link {
     background: var(--dark-color);
@@ -366,6 +376,7 @@ https://www.tooplate.com/view/2120-ben-resume
   width: 48%; /* Adjust as needed */
   margin-bottom: 20px;
 }
+
 
 .language-icon {
   margin-bottom: 10px;
